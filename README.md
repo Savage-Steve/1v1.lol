@@ -1,2 +1,2 @@
 ## **IN-GAME SCREENSHOTS**
-![alt text](image.jpg)
+![Gameplay](Screenshots/SS1.png)
