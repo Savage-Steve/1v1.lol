@@ -1,2 +1,3 @@
 ## **IN-GAME SCREENSHOTS**
-![Gameplay](Screenshots/SS1.png)
+![Gamemodes](Screenshots/SS1.png)
+![Gameplay](Screenshots/SS2.png)
